@@ -1,0 +1,6 @@
+{
+	"api": "binance api key",
+	"security": "binance security key",
+	"token": "discord token",
+	"prefix": "discord prefix"
+}
