@@ -15,6 +15,7 @@ python3 selfbot.py
 
 # Requirements
 discord | pip3 install discord
+
 binance | pip3 install python-binance
 
 
