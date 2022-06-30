@@ -1,7 +1,8 @@
-# binance-discord
-Binance client integrated with discord
+# Welcome to Binance Discord 🙋‍♂️
 
-# Commands
+## What is Binance Discord
+
+
 help | Shows all commands
 
 address | Gives address connected to binance account.
