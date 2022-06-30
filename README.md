@@ -1,6 +1,7 @@
 # Welcome to Binance Discord 🙋‍♂️
 
 ## What is Binance Discord
+Binance discord is bot to help connect your discord account and you binance account. You will be able to track different cryptocurrency assets from the commonly used platform discord, interacting with both of their apis and getting imediate, accurate data.
 
 
 help | Shows all commands
